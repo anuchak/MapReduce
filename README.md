@@ -1,2 +1,2 @@
-# Distributive Computing on weather data using mapreduce paradigm in Node.JS
+# Distributed Computing on Weather data using Mapreduce paradigm in NodeJS
 Final Year Undergrad Project
